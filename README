@@ -1,0 +1,6 @@
+1. Download .xml file to %homepath%\.WebIde10\config\colors
+2. Restart webstorm
+3. Open webstorm settings -> Editor -> Colors & Fonts
+4. Select theme from dropdown
+
+Enjoy
