@@ -1,4 +1,5 @@
 1. Download .xml file to %homepath%\.WebIde10\config\colors
+1.a For WebStorm 4 under Mac, Download .xml file to ~/Library/Preferences/WebIde40/colors/
 2. Restart webstorm
 3. Open webstorm settings -> Editor -> Colors & Fonts
 4. Select theme from dropdown
